@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @bipulchhetri
+- 👋 Hi, I’m Bipul Chhetri
 - 👀 I’m interested in software development.
-- 🌱 I’m currently learning DSA and full stack web development
+- 🌱 I’m currently learning DSA and full-stack web development
 - 📫 How to reach me, mail:-bipulchhetri80@gmail.com
 
 <!---
