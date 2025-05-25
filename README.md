@@ -1,6 +1,6 @@
 ![logo](https://github.com/bipulchhetri/bipulchhetri/blob/main/build%20a%20digital%20playbook%20that%20converts.png)
 
-Hi there! I'm **[Bipul chhetri]**, a passionate and self-motivated **Full Stack Developer** with a strong foundation in building responsive and user-friendly web applications using modern technologies like **HTML, CSS, JavaScript, React, and Tailwind CSS**.
+Hi there! I'm **[Bipul chhetri]**, a passionate and self-motivated **Full Stack Developer** with a strong foundation in building responsive and user-friendly web applications using modern technologies like **HTML, CSS, JavaScript, React, Tailwind CSS, Node JS, Express JS, MongoDB**.
 
 I recently completed a **Full Stack Web Development + DSA** program from **Cuvette**, where I gained hands-on experience in building real-world projects and improving my problem-solving skills.
 
