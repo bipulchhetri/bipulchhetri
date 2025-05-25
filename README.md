@@ -1,15 +1,17 @@
 ![logo](https://github.com/bipulchhetri/bipulchhetri/blob/main/build%20a%20digital%20playbook%20that%20converts.png)
-<h1 align="center">Hi 👋, I'm Bipul chhetri</h1>
-<h3 align="center">INSPIRED SOFTWARE DEVELOPER</h3>
-<img align="right"src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmEyd2JrNWN2ZmZqMDBweWZqenc5aDhuMXM4NHZ2NmRmNHJhZWtzMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bJ4TVNYNUympPgcpem/giphy.webp" alt="coding" width="400">
 
-- 🔭 I’m currently working on **Hotel Booking App**
+Hi there! I'm **[Bipul chhetri]**, a passionate and self-motivated **Full Stack Developer** with a strong foundation in building responsive and user-friendly web applications using modern technologies like **HTML, CSS, JavaScript, React, and Tailwind CSS**.
 
-- 🌱 I’m currently learning **Software Engineering**
+I recently completed a **Full Stack Web Development + DSA** program from **Cuvette**, where I gained hands-on experience in building real-world projects and improving my problem-solving skills.
 
-- 👨‍💻 All of my projects are available at [https://bipulchhetri.netlify.app/](https://bipulchhetri.netlify.app/)
+---
 
-- 📫 How to reach me **bipulchhetri80@gmail.com**
+## 🛠️ Tech Stack
+
+- **Frontend:** HTML5, CSS3, JavaScript (ES6+), React.js, Tailwind CSS, Core CSS
+- **Backend:** Node.js, Express.js
+- **Database:** MongoDB
+- **Tools & Others:** Git, GitHub, VS Code, Postman, Netlify, Vercel, Render, Firebase
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
